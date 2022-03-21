@@ -1,0 +1,9 @@
+*.pkl
+*.pyc
+*.py~
+*.un~
+*.un
+*.swp~
+*.swp
+*.ipynb_checkpoints
+
