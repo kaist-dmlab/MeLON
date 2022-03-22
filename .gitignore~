@@ -1,8 +1,0 @@
-*.un
-*.un~
-*.swp
-*~
-.pyc
-.pyc~
-.ipython_checkpoints
-__pycache__

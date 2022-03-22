@@ -16,3 +16,8 @@ Go into the directory './code_MeLON' and run following command to execute the sh
 ```bash
 sh run.sh
 ```
+
+Note: The current repo refers codes from:
+[THUwangcy/ReChorus](https://github.com/THUwangcy/ReChorus)
+[cybertronai/autograd-hacks](https://github.com/cybertronai/autograd-hacks)
+
